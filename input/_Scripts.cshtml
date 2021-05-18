@@ -8,6 +8,7 @@
     // })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     // ga('create', 'UA-54470483-1', 'auto');
     // ga('send', 'pageview');
-    snowStorm.targetElement = "snow-target";
+    snowStorm.targetElement = document.getElementsByClassName('masthead')[0];
     snowStorm.snowStick = true;
 </script>
+<script src="@Context.GetLink("/js/snowstorm-min.js")"></script>
