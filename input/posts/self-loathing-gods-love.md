@@ -1,6 +1,6 @@
-Title: Self-loathing and the Love of God
-Lead: Some thoughts on the limitations of love
-Published: 5/18/2021
+Title: Murder in Time and Memory
+Lead: An assessment of the line between murder/suicide in recent fiction
+Published: 5/18/2025
 Tags: [limits, faith]
 ---
 

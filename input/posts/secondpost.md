@@ -1,5 +1,5 @@
-Title: What Can I Remember
-Lead: Some thoughts on the limitations of memory
+Title: A Primer on Murder in the Zen tradition
+Lead: And you thought they were all mild-mannered teddy bears
 Published: 5/12/2026
 Tags: [limits, knowledge, memory]
 ---
